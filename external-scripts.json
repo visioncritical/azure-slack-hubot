@@ -6,5 +6,6 @@
   "hubot-azure-scripts/brain/storage-blob-brain",
   "hubot-pager-me",
   "hubot-plusplus",
-  "hubot-standup-alarm"
+  "hubot-standup-alarm",
+  "hubot-timezone"
 ]
