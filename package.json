@@ -8,7 +8,6 @@
     "coffee-script": "^1.9.3",
     "hubot": "^2.13.2",
     "hubot-azure-scripts": "^0.1.6",
-    "hubot-devops-reactions": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-help": "^0.1.1",
     "hubot-maps": "0.0.2",
