@@ -8,5 +8,6 @@
   "hubot-plusplus",
   "hubot-standup-alarm",
   "hubot-timezone",
-  "hubot-beer-me"
+  "hubot-beer-me",
+  "hubot-weather"
 ]

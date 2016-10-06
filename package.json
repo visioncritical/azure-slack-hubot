@@ -18,7 +18,8 @@
     "hubot-scripts": "^2.16.1",
     "hubot-slack": "^3.3.0",
     "hubot-standup-alarm": "^0.1.0",
-    "hubot-timezone": "^1.0.1"
+    "hubot-timezone": "^1.0.1",
+    "hubot-weather": "^1.0.3"
   },
   "engines": {
     "node": "0.12.x"
