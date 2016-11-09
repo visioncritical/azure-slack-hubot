@@ -9,5 +9,6 @@
   "hubot-standup-alarm",
   "hubot-timezone",
   "hubot-beer-me",
-  "hubot-weather"
+  "hubot-weather",
+  "hubot-reminder-bot"
 ]
