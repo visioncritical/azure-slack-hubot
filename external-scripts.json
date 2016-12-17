@@ -10,5 +10,6 @@
   "hubot-timezone",
   "hubot-beer-me",
   "hubot-weather",
-  "hubot-reminder-bot"
+  "hubot-reminder-bot",
+  "hubot-cachet"
 ]
