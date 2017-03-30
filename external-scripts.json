@@ -11,5 +11,6 @@
   "hubot-beer-me",
   "hubot-weather",
   "hubot-reminder-bot",
-  "hubot-cachet"
+  "hubot-cachet",
+  "hubot-jira-bot"
 ]
